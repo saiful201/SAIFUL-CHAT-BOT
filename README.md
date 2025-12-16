@@ -5,13 +5,13 @@
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to My SAIFUL CHAT BOT Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image](https://i.postimg.cc/VL7V0Sbw/369250874-1930802593968132-6623658624781565033-n.jpg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span> Develop By SAIFUL ISLAM</span>
 </p>
 
 _____
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHAHADAT ISLAM`**  
-**Nice Name:** **`SA HU`**  
+**Name:** **`SAIFUL ISLAM`**  
+**Nice Name:** **`ISLAM`**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
-**Location:** **`KHAGRACHARI, BANGLADESH`**  
+**Location:** **`LAKSMIPUR, BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
+- **WhatsApp:** **[0556922013](https://wa.me/+966556922013)**  
+- **Facebook:** **[Facebook ID](https://facebook.com/100011152309303)**  
+- **Messenger:** **[Message Me](https://m.me/100011152309303)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -187,15 +187,7 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://m.me/100001039692046">
-    <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
-  </a>
-</p>
-
----
+  <a href="htt  <a href="https://wa.me/+966556922013?text=Assalamualaikum%20Admin%20SAIFUL%20ISLAM%20Need%20Help%20Please%20Brother%20🫶">"WhatsApp"asrc""https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge=logo=whatsapp&logoColor=white">oColor>white"href<"https://m.me/100011152309303">0010396920alt>"Messenger"lsrcM"https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge=logo=messengerllogoColor=white">oColor>whit>">---
 
 ## ✨🌟 Special Thanks 🌟✨
 
