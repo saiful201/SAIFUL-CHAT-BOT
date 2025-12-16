@@ -1,4 +1,4 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
+### —͟͟͞͞SAIFUL CHAT BOT  FORK  🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
@@ -10,17 +10,17 @@ Assalamualaikum Everyone!
 ![Box-shaped Image](https://i.postimg.cc/VL7V0Sbw/369250874-1930802593968132-6623658624781565033-n.jpg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
+  <span style="font-size: 24px; font-weight: bold;">SAIFUL CHAT BOT</span><br>
   <span> Develop By SAIFUL ISLAM</span>
 </p>
 
 _____
 
-[![License](https://img.shields.io/github/license/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues)
-[![GitHub forks](https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/network)
-[![GitHub stars](https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/commits)
+[![License](https://img.shields.io/github/license/saiful201/SAIFUL-CHAT-BOT)](https://github.com/saiful201/SAIFUL-CHAT-BOT/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/saiful201/SAIFUL-CHAT-BOT)](https://github.com/saiful201/SAIFUL-CHAT-BOT/issues)
+[![GitHub forks](https://img.shields.io/github/forks/saiful/SAIFUL-CHAT-BOT)](https://github.com/saiful201/SAIFUL-CHAT-BOT/network)
+[![GitHub stars](https://img.shields.io/github/stars/saiful/SAIFUL-CHAT-BOT)](https://github.com/saiful201/SAIFUL-CHAT-BOT/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/saiful201/SAIFUL-CHAT-BOT)](https://github.com/saiful201/SAIFUL-CHAT-BOT/commits)
 _______
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
@@ -77,7 +77,7 @@ Click the image above to watch the step-by-step tutorial on YouTube.
 **Start Command**  
    Navigate to the folder where your bot files are located:
    ```bash
-   node Sahu.js
+   node Saiful.js
 ```
 
 
